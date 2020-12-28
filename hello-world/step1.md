@@ -4,7 +4,8 @@ This is your first step.
 
 The cluster may take a few minutes to start..
 
-`echo 'k get po -A'`{{execute}}
+`echo 'Hello World 2'`{{execute}}
+
 
 Next...
 
