@@ -7,9 +7,7 @@
     "steps": [
 {
       "title": "Step 1/2 - Run Command",
-      "text": "step1.md",
-      "title": "Step 3/2 - Run Command",
-      "text": "step2.md"
+      "text": "step1.md"
  }
 ],
     "intro": {
@@ -25,6 +23,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "bash"
+    "imageid": "kubernetes"
   }
 }
