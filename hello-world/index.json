@@ -6,12 +6,12 @@
   "details": {
     "steps": [
 {
-      "title": "Step 1 - Run Command",
+      "title": "Step 1/2 - Run Command",
       "text": "step1.md"
  },
 
 {
-      "title": "Step 2 - Run Command",
+      "title": "Step 2/2 - Run Command",
       "text": "step2.md"
  },
 
