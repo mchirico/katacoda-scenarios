@@ -1,8 +1,16 @@
-This is your 2nd step.
+This is your first step.
 
-## Create Cluster
+## Install kubectl
 
-`kind create cluster`{{execute}}
+Install kubectl
+
+`curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/linux/amd64/kubectl"`{{execute}}
+
+Change kubectl to "k"
+
+`chmod +x kubectl && mv kubectl /usr/local/bin/k`{{execute}}
+
+
 
 
 
