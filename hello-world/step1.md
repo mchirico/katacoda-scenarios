@@ -1,13 +1,13 @@
 This is your first step.
 
-## Task
+## Install KinD
 
-The cluster may take a few minutes to start..
+Install KinD
 
-`echo 'Hello World 2'`{{execute}}
+`echo 'GO111MODULE="on" go get sigs.k8s.io/kind@v0.9.0'`{{execute}}
 
 
-Next...
+
 
 
 

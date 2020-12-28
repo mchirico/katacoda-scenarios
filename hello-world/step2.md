@@ -1,10 +1,11 @@
 This is your 2nd step.
 
-## Task
+## Create Cluster
 
-This is an _example_ of creating a scenario and running a **command**
 
-`echo 'Hello World 2'`{{execute}}
+`echo 'kind create cluster'`{{execute}}
+
+
 
 Next...
 
