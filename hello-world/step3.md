@@ -3,9 +3,9 @@ This is your first step.
 ## k
 
 
-Change kubectl to "k"
+verify kubectl is installed
 
-`chmod +x kubectl && mv kubectl /usr/local/bin/k`{{execute}}
+`kubectl version`{{execute}}
 
 
 
