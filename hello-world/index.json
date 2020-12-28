@@ -7,15 +7,10 @@
     "steps": [
 {
       "title": "Step 1/2 - Run Command",
-      "text": "step1.md"
- },
-
-{
-      "title": "Step 2/2 - Run Command",
+      "text": "step1.md",
+      "title": "Step 3/2 - Run Command",
       "text": "step2.md"
- },
-
-
+ }
 ],
     "intro": {
       "text": "intro.md",
