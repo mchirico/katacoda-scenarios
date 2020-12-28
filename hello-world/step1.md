@@ -2,12 +2,12 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+The cluster may take a few minutes to start..
 
-`echo 'Hello World'`{{execute}}
+`echo 'k get po -A'`{{execute}}
 
 Next...
 
 
-`echo 'go version'`{{execute}}
+
 
