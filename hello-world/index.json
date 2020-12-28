@@ -1,6 +1,5 @@
 {
   "title": "KinD Kubernetes Scenario",
-  "courseData": "background.sh",
   "description": "Getting started with KinD",
   "difficulty": "beginner",
   "time": "5 minutes",
