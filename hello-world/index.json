@@ -1,5 +1,5 @@
 {
-  "title": "Hello World Scenario",
+  "title": "Kubernetes Scenario",
   "description": "Your First Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
@@ -8,7 +8,11 @@
 {
       "title": "Step 1 - Run Command",
       "text": "step1.md"
- }
+ },
+{
+        "title": "Step 2 - Reusing Scenarios",
+        "text": "step2.md"
+      },
 ],
     "intro": {
       "text": "intro.md",
@@ -23,6 +27,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "kubernetes-master-ubuntu1804-1-18 and kubernetes-node-ubuntu1804-1-18"
+    "imageid": "kubernetes-master-ubuntu1804-1-18"
   }
 }
